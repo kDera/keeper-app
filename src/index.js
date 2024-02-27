@@ -14,4 +14,4 @@
 import React from "react";
 import ReactDOM  from "react-dom";
 
-ReactDOM.render(<h1>Hello cadu</h1>, document.getElementById("root"))
+ReactDOM.render(<h1>Hello cadeirinha</h1>, document.getElementById("root"))
